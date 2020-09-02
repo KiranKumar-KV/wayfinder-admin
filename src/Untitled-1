@@ -1,0 +1,96 @@
+import React, { Component } from "react";
+import { Switch, Route, Redirect } from "react-router-dom";
+import Home from "./pages/Home";
+import Shops from "./pages/Shops";
+import Offers from "./pages/Offers";
+import Help from "./pages/Help";
+import Events from "./pages/Events";
+import Navbar from "./components/Navbar";
+import { log } from "util";
+import { withRouter } from "react-router-dom";
+import Sidebar from "./components/sidebar";
+
+class App extends Component {
+  state = {
+    location: "home",
+    name: ""
+  };
+
+  componentDidMount() {
+    this.setState({
+      location: window.location.href.split("/")[window.location.href.split("/").length - 1],
+      // eslint-disable-next-line react/no-unused-state
+      name: "home"
+    });
+  }
+
+  getClass = location => {
+    // console.log(this.props);
+
+    this.props.history.replace(location);
+    this.setState({
+      location
+    });
+  };
+
+  render() {
+    const { location } = this.state;
+    return (
+      <main className="app">
+        <Navbar />
+        <Sidebar/>
+        {/* <aside className="sidebar">
+          <ul>
+            <li>
+              <img src="" alt="" />
+            </li>
+            <li
+              onClick={() => this.getClass("home")}
+              className={location === "home" ? "active" : ""}
+            >
+              Home
+            </li>
+
+            <li
+              onClick={() => this.getClass("shops")}
+              className={location === "shops" ? "active" : ""}
+            >
+              Shops
+            </li>
+            <li
+              onClick={() => this.getClass("offers")}
+              className={location === "offers" ? "active" : ""}
+            >
+              Offers
+            </li>
+            <li
+              onClick={() => this.getClass("events")}
+              className={location === "events" ? "active" : ""}
+            >
+              Events
+            </li>
+            <li
+              onClick={() => this.getClass("help")}
+              className={location === "help" ? "active" : ""}
+            >
+              Help
+            </li>
+          </ul>
+        </aside> */}
+        <div className="content">
+          <Switch>
+            <Route exact path="/home" component={Home} />
+            <Route path="/shops" component={Shops} />
+
+            <Route path="/offers" component={Offers} />
+            <Route path="/help" component={Help} />
+            <Route path="/events" component={Events} />
+            <Redirect from="/" to="/home" />
+          </Switch>
+        </div>
+      </main>
+    );
+  }
+}
+
+export default withRouter(App);

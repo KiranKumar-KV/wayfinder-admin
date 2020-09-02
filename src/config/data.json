@@ -1,0 +1,1347 @@
+{
+    "shops": [
+      {
+        "title": "Alkhizar",
+        "description": "Alkhizar Perfume provides attars, bakhoor, perfumed soaps, perfumes and precious and semi-precious gemstones.",
+        "floor": "second",
+        "category": "",
+        "id": "alkhizar"
+      },
+      {
+        "title": "All",
+        "description": "FASHION IS FOR ONE AND aLL Fashion isn’t limited to the size zeroes of the world. Everyone has a body type that is flaunt worthy, if accentuated well to bring out their best. And this is possible only with the right fit and the right accessories.",
+        "floor": "second",
+        "category": "",
+        "id": "all"
+      },
+      {
+        "title": "Archies",
+        "description": "Archies acquired its first foreign license from Walt Disney. Mickey Mouse and Donald Duck began appearing on Indian greeting cards. The Archies Gallery chain came next. In a short few years, Archies had become a recognized brand – and a household name.As everybody says Archies means Love. Love for relations.",
+        "floor": "third",
+        "category": "",
+        "id": "archies"
+      },
+      {
+        "title": "Aromas Of South",
+        "description": "Variety of South Indian dishes, which includes Thalis, spicy Andhra dishes and other varieties of South Indian dishes. One can also savour the traditional Mangalorean fish curry and chicken sukkah.",
+        "floor": "third",
+        "category": "",
+        "id": "aromas"
+      },
+      {
+        "title": "Arrow",
+        "description": "The ARROW brand at one time offered as many as 400 different styles of detachable collars. However, even as detachable collars fell out of fashion after WWI, ARROW continued to innovate and offer its \"Authentic American Style. After all these years, we are proud that we continue to offer the classic and authentic American style which made ARROW famous\".",
+        "floor": "upperGround",
+        "category": "",
+        "id": "arrow"
+      },
+      {
+        "title": "Aurelia",
+        "description": "Find the most exclusive deisgner collections of Women’s Kurtis, Kurtas, Churidars, Salwars. Celebrate the empowerd Indian Women look and move forward with the unbeatable confidence in you.",
+        "floor": "second",
+        "category": "",
+        "id": "aurelia"
+      },
+      {
+        "title": "Baggit",
+        "description": "Nina Lekhi, a young entrepreneur arose with a determination to make her mark in the fashion world. With her love for accessories and creative wild ideas she sought out to cater to the fun loving urban Indian consumers’ needs. Thus, Baggit was born; making its first appearance at INXS, Mumbai, it went on to become one of the leading brands in the country.",
+        "floor": "first",
+        "category": "",
+        "id": "baggit"
+      },
+      {
+        "title": "Bata",
+        "description": "Bata’s appeal comes from the concept created by the brand’s founder: shoes and accessories for the whole family, at affordable prices, that are both fashionable and of the highest quality. From the beginning, the focus was on satisfying customers and understanding their needs, including their affinity for style. \"The brand’s reputation and visibility in India are a testament to everything Bata stands for,\" says Pierre Murbach, Global Media & Content Manager at Bata Brands in Switzerland. \"It shows that we are doing things right and it reflects on everyone in every country.\"",
+        "floor": "first",
+        "category": "",
+        "id": "bata"
+      },
+      {
+        "title": "Celio",
+        "description": "Founded in 1985 , Celio has become, in less than 30 years, the leading men’s ready-to-wear brand in France and a must-see internationally. In constant expansion, the brand is present in more than 50 countries with more than 1100 stores. The brand offers fashionable and stylish urban fashion through its integrated style, responding to every desire and every moment of life.",
+        "floor": "upperGround",
+        "category": "",
+        "id": "celio"
+      },
+      {
+        "title": "Central",
+        "description": "Central is retail Departmental retail chain operated by Future Retail Limited- the operating company of Future Group. Future Group makes every effort to delight its customers, tailoring store formats to changing Indian lifestyles and adapting products and services to their desires",
+        "floor": "upperGround",
+        "category": "",
+        "id": "central"
+      },
+      {
+        "title": "Central",
+        "description": "Central is retail Departmental retail chain operated by Future Retail Limited- the operating company of Future Group. Future Group makes every effort to delight its customers, tailoring store formats to changing Indian lifestyles and adapting products and services to their desires",
+        "floor": "first",
+        "category": "",
+        "id": "central_first"
+      },
+      {
+        "title": "Central",
+        "description": "Central is retail Departmental retail chain operated by Future Retail Limited- the operating company of Future Group. Future Group makes every effort to delight its customers, tailoring store formats to changing Indian lifestyles and adapting products and services to their desires",
+        "floor": "second",
+        "category": "",
+        "id": "central_upperGround"
+      },
+      {
+        "title": "Chicking",
+        "description": "Chickings is a rapidly growing fast-food chain in the region, specializing in serving the tastiest fried chicken which is original and has spicy secret recipe which includes a unique blend of the choicest herbs and spices serving since the year 2000.",
+        "floor": "third",
+        "category": "",
+        "id": "chicking"
+      },
+      {
+        "title": "Calvin Klein",
+        "description": "Calvin Klein Inc. is an American fashion house founded by the fashion designer Calvin Klein. In 1968, Klein founded Calvin Klein Limited, a coat shop in the York Hotel in New York City, with $10,000. The first Calvin Klein collection was a line of \"youthful, understated coats and dresses\" featured at the New York City store, Bonwit Teller",
+        "floor": "upperGround",
+        "category": "",
+        "id": "calvinklein"
+      },
+      {
+        "title": "Cafe Coffee Day",
+        "description": "Café Coffee Day is a coffee shop for the young and the young at heart. We’re part of Coffee Day Global Limited. We source our coffees from thousands of small coffee planters. They and the many plantation workers have truly made us who we are today and we’re glad to be a part of their lives.",
+        "floor": "upperGround",
+        "category": "",
+        "id": "cafecoffeeday"
+      },
+      {
+        "title": "Colorbar",
+        "description": "ColorBar Cosmetics, founded in 2004, is among the leading brands of color cosmetics in India and is extremely popular among the urban women. The inspiration behind the brand is a millennium woman who believes in expressing her various moods and desires through a variety of colors she adorns",
+        "floor": "upperGround",
+        "category": "",
+        "id": "colorbar"
+      },
+      {
+        "title": "Cookieman",
+        "description": "Cookie Man is India’s #1 brand of fresh baked cookies. The scrumptious cookies are available in an extensive range of international flavours and carefully packed in a variety of packaging solutions that effectively combine function and style. The ideal snack, a perfect gift and a wonderful treat – our range of mouth-watering fresh baked cookies are a guaranteed delight – grab a bite!",
+        "floor": "upperGround",
+        "category": "",
+        "id": "cookieman"
+      },
+      {
+        "title": "Crocs",
+        "description": "All Crocs shoes are uniquely designed and manufactured using the company’s proprietary closed-cell resin, Croslite a technology that gives each pair of shoes the soft, comfortable, lightweight, non-marking and odor-resistant qualities that Crocs wearers know and love. Crocs footwear is ideal for casual wear, as well as for professional use and recreational activities",
+        "floor": "upperGround",
+        "category": "",
+        "id": "crocs"
+      },
+      {
+        "title": "Crossword",
+        "description": "Crossword aims to be a point of cultural and social interaction where authors and poets hold court, where children are regaled, where people gravitate to be informed, to be entertained, even enlightened. The name embodies the vision of Crossword as a place and space for people who seek information, knowledge or just the pleasure of reading. Crossword stocks the widest range of Books – Movies- Music- Toys- Stationery- Magazines and CD ROM’s.",
+        "floor": "third",
+        "category": "",
+        "id": "crossword"
+      },
+      {
+        "title": "Daniel Wellington",
+        "description": "Daniel Wellington is a Swedish based watch company known for its minimalistic, refined and classic design with interchangeable straps with truly wide-ranging appeal.",
+        "floor": "upperGround",
+        "category": "",
+        "id": "danielwellington"
+      },
+      {
+        "title": "Domino's Pizza",
+        "description": "Domino’s Pizza India focusses on delivering great tasting Pizzas, sides, superior quality, exceptional guest care and value for money. Domino’s believes that when a box of pizza is opened, family and friends come together to share the pizza. Hence, we believe in ‘Yeh Hai Rishton Ka Time’",
+        "floor": "third",
+        "category": "",
+        "id": "dominospizza"
+      },
+      {
+        "title": "Dream Girl",
+        "description": "Dream Girl is an exciting new way to buy Fashion Jewellery and Accessories. Dream Girl always provides a detailed assistance to help you search and order the perfect jewellery to match your needs for all occasions. Dream Girl will delight you with its wide collection of Indian and Western, Fashion and Silver Jewellery and gratify you with its excellent customer service",
+        "floor": "second",
+        "category": "",
+        "id": "dreamgirl"
+      },
+      {
+        "title": "Fabindia",
+        "description": "Craft techniques that make contemporary statements, products and designs that speak the language of tradition in a modern idiom, colours that set the imagination ablaze.",
+        "floor": "second",
+        "category": "",
+        "id": "fabindia"
+      },
+      {
+        "title": "Ajwad Perfumes",
+        "description": "We have the large collections of perfumes, attars & body spray.",
+        "floor": "upperGround",
+        "category": "",
+        "id": "ajwad"
+      },
+      {
+        "title": "Flavours Of Arabia",
+        "description": "Arabian Cuisine with wide variety of Arabian delights which includes Shawarma, Grill, Al Faham and many more mouth-watering dishes which adds your appetite.",
+        "floor": "third",
+        "category": "",
+        "id": "flavoursofarabia"
+      },
+      {
+        "title": "Fresh Bake",
+        "description": "Fresk Bake offers a vast variety of cakes & snacks",
+        "floor": "lowerGround",
+        "category": "",
+        "id": "freshbake"
+      },
+      {
+        "title": "Go Colors",
+        "description": "At Go Colors, we’re all about happy legs. With the widest range of legwear – Leggings, Jeggings, Harems, Palazzos, Patialas, Denims, Pants and Churidars in over 100 colors – finding the perfect match for your lovely legs couldn’t get easier.",
+        "floor": "second",
+        "category": "",
+        "id": "gocolors"
+      },
+      {
+        "title": "Hangyo",
+        "description": "Hangyo is an emerging regional leading brand manufacturing Ice-creams. At this outlet you’ll find all premium ice cream scoops, kulfis and also Icy stone which tickle’s your taste buds.",
+        "floor": "third",
+        "category": "",
+        "id": "hangyo"
+      },
+      {
+        "title": "At Home",
+        "description": "At home is a retail division of Nilkamal Limited. Nilkamal Limited is world’s largest manufacturer of moulded furniture, India’s leading manufacturer of Material Handling Systems and has recently launched Mattress manufacturing business. ",
+        "floor": "lowerGround",
+        "category": "",
+        "id": "athome"
+      },
+      {
+        "title": "Hush Puppies",
+        "description": "Our soft, breathable and comfortable footwear invited young families to break the rules, kick back and enjoy a comfortable, casual way of living. With over 17 million pairs of shoes sold every year in more than 165 countries around the world, Hush Puppies is a global brand, a household name and a cultural icon that embodies the lighthearted spirit of its beloved basset hound.",
+        "floor": "upperGround",
+        "category": "",
+        "id": "hushpuppies"
+      },
+      {
+        "title": "Ilahui",
+        "description": "Ilahui is a Korean based lifestyle brand that came into existence when a team of seven budding and existing entrepreneurs collaborated to create an experience which delivers happiness from minimalistic shopping. Ilahui was born out of an idea to bring simple consumer products to the mainstream market, the need for which had been demonstrated in previous entrepreneurial ventures of the directors. Shopping Paradise for Individuals, families & couples. A place where everyone can find something worth buying! Variety at economical prices.",
+        "floor": "third",
+        "category": "",
+        "id": "ilahui"
+      },
+      {
+        "title": "Indian Tadka",
+        "description": "Enjoy exotic North Indian cuisines at this outlet. It serves roti and mouth-watering North Indian Thalis and combos at affordable prices.",
+        "floor": "third",
+        "category": "",
+        "id": "indiantadka"
+      },
+      {
+        "title": "Indian Terrain",
+        "description": "Indian Terrain Fashions Ltd. was founded by Mr. Venky Rajgopal with the aim of providing men in India with premium workwear and smart-casual clothing. The company launched \"Indian Terrain,\" a brand to cater to the needs of the cosmopolitan, mature, upwardly-mobile man. The range of garments offered includes shirts, trousers, t-shirts, shorts, sweaters, jackets, and denims.",
+        "floor": "first",
+        "category": "",
+        "id": "indianterrain"
+      },
+      {
+        "title": "Just Juice",
+        "description": "A juice junction which serves prepared juice beverages such as freshly squeezed or extracted fruit juices, juice blends, fruit smoothies, mocktails & refreshing beverages.",
+        "floor": "third",
+        "category": "",
+        "id": "justjuice"
+      },
+      {
+        "title": "Kakunje's Rasoi",
+        "description": "A pure veg outlet to get delicious stuffed parathas! Each paratha comes with an assortment of sides to go along with (Chole, Sweet Chutney, Spicy Green Chutney, Dahi, Pickle). It’s an awesome place for Veg Lovers to dine –Inn.",
+        "floor": "third",
+        "category": "",
+        "id": "kakunjesrasoi"
+      },
+      {
+        "title": "Lenskart",
+        "description": "Lenskart is India’s fastest growing eyewear business with over 500 optical stores around the country. Our mission is to give vision to every Indian at affordable price. Lenskart’s products range from prescription eyeglasses, branded contact lenses and sunglasses, all equipped with the customers’ eye power. We have over 5000 styles of eyewear, from big brands like RayBan and Oakley to the best in house brands like Vincent Chase and John Jacobs. We make eyeglasses, sunglasses for men, women and kids",
+        "floor": "first",
+        "category": "",
+        "id": "lenskart"
+      },
+      {
+        "title": "Levi's",
+        "description": "Anyone can make a pair of blue jeans, but Levi Strauss & Co. made the first blue jean –– in 1873. And we draw upon our heritage to continually reinvent the blue jean for generation after generation. Welcome to the place where that heritage Levi’s.",
+        "floor": "upperGround",
+        "category": "",
+        "id": "levis"
+      },
+      {
+        "title": "Louis Phillippe",
+        "description": "Defining class, elegance and status, Louis Philippe is a purveyor of fine clothing for the discerning gentleman. In pursuit of excellence, Louis Philippe stands for precision in craftsmanship that translates into clothing that are classic and contemporary, and perfect for the quintessential man.",
+        "floor": "upperGround",
+        "category": "",
+        "id": "louisphillippe"
+      },
+      {
+        "title": "Mad About China",
+        "description": "Chinese food with rich dishes have diversified colour, aromatic flavour and excellent taste as its main feature.",
+        "floor": "third",
+        "category": "",
+        "id": "madaboutchina"
+      },
+      {
+        "title": "Manyavar",
+        "description": "In 1999, Mr. Ravi Modi created a family business that re-invented men’s ethnic wear category. During the course of its evolution, it became synonymous with wedding wear. A one stop store for grooms and men of the family for functions big and small. As more and more variety was added to the range, the brand became popular for occasion wear – from weddings to festivals, Rakhi to Roka. Today Manyavar is India’s leading Celebration Wear brand for men.",
+        "floor": "first",
+        "category": "",
+        "id": "manyavar"
+      },
+      {
+        "title": "Maple",
+        "description": "Apple is iconic, and synonymous with perfection, setting the standards for the rest. In every product category, they are the trail-blazers, the benchmark-setters. Their total focus on being the best at what they do has resulted in the instantly recognizable iPhones, iPads, iPods, and of-course, the stunning Mac range of computers.",
+        "floor": "upperGround",
+        "category": "",
+        "id": "maple"
+      },
+      {
+        "title": "Max",
+        "description": "At MAX, shoppers can expect the latest in international fashion from around the globe & an excellent range to choose from; all of this offered at great prices in a world class shopping environment. Max retails its own label merchandise of in house designs and planned color palettes for the season. Every season it introduces a fresh collection of international designs specially customized to the Indian market. ",
+        "floor": "lowerGround",
+        "category": "",
+        "id": "max"
+      },
+      {
+        "title": "McDonald's",
+        "description": "McDonald’s is the world’s leading global foodservice retailer with over 36,000 locations in over 100 countries. More than 80% of McDonald’s restaurants worldwide are owned and operated by independent local business men and women.",
+        "floor": "lowerGround",
+        "category": "",
+        "id": "mcdonalds"
+      },
+      {
+        "title": "Metro",
+        "description": "Metro Shoes, the brand, is now a household name in India. Over the past six decades, the company and the brand have become synonymous with unmatched quality, skilled craftsmanship and high-fashion products in the footwear industry. What began as a single outlet in Mumbai has today grown into a nationwide chain of exclusive fashion footwear and accessories stores for the entire family.",
+        "floor": "upperGround",
+        "category": "",
+        "id": "metro"
+      },
+      {
+        "title": "Mobikins",
+        "description": "Mobikins was established in the year 2005 in Bangalore. Over 12 years in the accessories business we sell all types of Mobile & Computer accessories we have a strong team of 70+ people serving in 16 + stores, highly qualified promoters. At Mobikins we make sure customers get more out of whatever customer buy at our store. Mobikins constantly make an effort to guarantee customer satisfaction.",
+        "floor": "second",
+        "category": "",
+        "id": "mobikins"
+      },
+      {
+        "title": "Mstore",
+        "description": "All M stores have been strategically opened in terms of location keeping the consumer in mind facilitating their easy access and navigation. Also, while designing all M stores, consumer’s purchase behaviour was the most important driver for product placement as well as customer care. The stores have been designed in such a way that no matter who men, women, children or the elderly anybody can come and easily buy what they are looking for.",
+        "floor": "lowerGround",
+        "category": "",
+        "id": "mstore"
+      },
+      {
+        "title": "Newu",
+        "description": "Newu gives you access to a wide range of color cosmetics, skin care, hair care, personal care, men’s grooming products. We aim to achieve highest level of Customer Satisfaction with the services offered. So Stay You, Stay Beautiful only with NewU.Newu gives you access to a wide range of color cosmetics, skin care, hair care, personal care, men’s grooming products. We aim to achieve highest level of Customer Satisfaction with the services offered. So Stay You, Stay Beautiful only with NewU.",
+        "floor": "second",
+        "category": "",
+        "id": "newu"
+      },
+      {
+        "title": "Nike",
+        "description": "Nike, Inc. is an American multinational corporation which is one of the world’s largest suppliers of athletic shoes and apparel and a major manufacturer of sports equipment.",
+        "floor": "first",
+        "category": "",
+        "id": "nike"
+      },
+      {
+        "title": "Pantaloons",
+        "description": "Innovative designs, exclusive brands and delightful prices! Fall in love with fashion that truly defines your style, only at Pantaloons.Voted as ‘India’s Most Trusted Apparel Retail Brand,’ (Brand Equity Survey 2014/2015), Pantaloons, a division of ABFRL has always been one of the most loved large format fashion retailers in India.",
+        "floor": "first",
+        "category": "",
+        "id": "pantaloons"
+      },
+      {
+        "title": "Paradise",
+        "description": "Paradise is an ISO 9001:2015 certified Abaya manufacturing company, established in 1992. We manufacture, export and retailers of world class of Abaya, Sheila, Scarf, Bonnets and Hijabs. We are taking orders as per customer choice.",
+        "floor": "lowerGround",
+        "category": "",
+        "id": "paradise"
+      },
+      {
+        "title": "Park Avenue",
+        "description": "Park Avenue was introduced in 1986 by Raymond, to offer Complete Wardrobe Dressing Solutions. Today, Park Avenue is amongst India’s leading Men’s \"Ready Made Garment\" brand. It enjoys the ‘Raymond’ heritage and values like trust, integrity, quality and excellence.",
+        "floor": "upperGround",
+        "category": "",
+        "id": "parkavenue"
+      },
+      {
+        "title": "Payless",
+        "description": "A great pair of boots is always on-trend. Women’s boots from Payless meet your style needs, no matter where you are or what you’re doing. They’re durable and versatile without compromising charm. They come in styles that work with just about any outfit, and they can provide a level of comfort you can appreciate.",
+        "floor": "lowerGround",
+        "category": "",
+        "id": "payless"
+      },
+      {
+        "title": "Peter England",
+        "description": "Peter England is amongst the most trusted brands in the ready-to-wear apparel segment. One of India’s largest brands, Peter England has acquired a loyal clientele with a rich and versatile range of men’s wear. With the launch of its new base line and campaign ‘Be Everything You Love’ Peter England reaffirmed its position as a brand that understands today’s youth, by celebrating the authentic expressions of the Gen Y",
+        "floor": "first",
+        "category": "",
+        "id": "peterengland"
+      },
+      {
+        "title": "Pizza Hut",
+        "description": "Pizza Hut, an American restaurant chain and international franchise offers pizza and pasta, as well as side dishes and desserts. They have a wide range of offers which include buy one get one Pizza on Wednesdays.",
+        "floor": "third",
+        "category": "",
+        "id": "pizzahut"
+      },
+      {
+        "title": "Poorvika",
+        "description": "Poorvika Mobiles Pvt Ltd., Headquartered in Chennai, India, Poorvika Mobiles Pvt. Ltd. is a leading multi-brand retail chain that deals in mobile phones and connections, accessories, recharges and internet data cards.",
+        "floor": "lowerGround",
+        "category": "",
+        "id": "poorvika"
+      },
+      {
+        "title": "Print Happiness",
+        "description": "Print Happiness is a brand that believes in creative ways of expressing love and happiness . Printing just pictures for photo album is the thing of past, Print Happiness will give you more than 350 ways of preserving images of your loved once . Walk into our store in Forum Fiza Mall to experience the difference.",
+        "floor": "second",
+        "category": "",
+        "id": "printhappiness"
+      },
+      {
+        "title": "Puma",
+        "description": "PUMA offers performance and sport-inspired lifestyle products in categories such as Football, Cricket, Running, Training & Fitness, Golf, and Motorsports. It engages in exciting collaborations with renowned design brands such as Alexander McQueen and Mihara Yasuhiro to bring innovative and fast designs to the sports world.",
+        "floor": "first",
+        "category": "",
+        "id": "puma"
+      },
+      {
+        "title": "PVR Cinemas",
+        "description": "PVR continues to provide superior quality ambiance, technologically updated systems, and best service standards to ensure customer delight and unmatched cinema viewing experiences.",
+        "floor": "second",
+        "category": "",
+        "id": "pvr"
+      },
+      {
+        "title": "Raymond",
+        "description": "Raymond group is vertically and horizontally integrated to provide customers total textile solutions. Few companies globally have such a diverse product range of nearly 20,000 varieties of worsted suiting to cater to customers across age groups, occasions and styles.",
+        "floor": "upperGround",
+        "category": "",
+        "id": "raymond"
+      },
+      {
+        "title": "Recharge",
+        "description": "Now that you’ve purchased your cell phone, it’s time to protect it against the rigors of everyday life and find ways to get the most of out of your new device. Recharge has a wide selection of cell phone accessories including cases, chargers, cables, memory cards, adapters and more.",
+        "floor": "lowerGround",
+        "category": "",
+        "id": "recharge"
+      },
+      {
+        "title": "Reem Dates And Nuts",
+        "description": "Reem is a exclusive store, selling finest quality dates & dry fruits, with a wide range from different parts of the world",
+        "floor": "lowerGround",
+        "category": "",
+        "id": "reem"
+      },
+      {
+        "title": "Reliance Digital",
+        "description": "Touch, feel and try every product before you make your BUY decision! Get Up, Close and Personal with the latest products in our specially designed Experience Zones for high-end entertainment systems like home theatres, televisions, home and car music systems. These zones simulate an environment that brings the best of each product alive – thereby guiding you to make the right choice.",
+        "floor": "third",
+        "category": "",
+        "id": "reliancedigital"
+      },
+      {
+        "title": "Revlon",
+        "description": "Revlon is a global color cosmetics, hair color, beauty tools, fragrances, skincare, anti-perspirant / deodorants and beauty care products company whose vision is Glamour, Excitement and Innovation through High-quality Products at Affordable Prices. ",
+        "floor": "upperGround",
+        "category": "",
+        "id": "revlon"
+      },
+      {
+        "title": "Romantic",
+        "description": "Romantic is a unisex lingerie store that showcases branded lingerie and lounge wear from all ages selected from the top Indian and international brands available in all sizes, extra small to ++ sizes. Apart from lingerie we also sell swim wear, undergarments, sportswear and cosmetics for both men and women and children of all ages.",
+        "floor": "upperGround",
+        "category": "",
+        "id": "romantic"
+      },
+      {
+        "title": "Samsonite",
+        "description": "Samsonite continues to lead the Travel Category with the same core principles, further expanding Shwayder’s vision globally with design and innovation into product categories and consumer targets.",
+        "floor": "first",
+        "category": "",
+        "id": "samsonite"
+      },
+      {
+        "title": "Sangeetha",
+        "description": "Sangeetha mobiles has its presence in more than 450 stores across India.",
+        "floor": "third",
+        "category": "",
+        "id": "sangeetha"
+      },
+      {
+        "title": "Show Off",
+        "description": "Showoff is a leading chain of retail apparel stores all over Bangalore. catering to men, women & kids. It is a multi-brand store which has become a popular shopping destination in Bangalore and South India. The core business of Showoff is retail and wholesale of apparel.",
+        "floor": "second",
+        "category": "",
+        "id": "showoff"
+      },
+      {
+        "title": "Sketchers",
+        "description": "We offer looks for every age and activity across an eclectic range of collections. Memory Foam, Relaxed Fit and casual lifestyle sneakers, boots and sandals. A charity-minded BOBS line helping children in need. Kids’ shoes that play, spin, spring and light bright. And Skechers GO performance styles designed with innovative technologies for walking, running and training.",
+        "floor": "first",
+        "category": "",
+        "id": "sketchers"
+      },
+      {
+        "title": "Smaaash Zone",
+        "description": "SMAAASH implores the child in you to joyously revel in an unmatched range of activities ranging from highly interactive sports simulators to many more thrilling and recreational attractions Redefining sports entertainment and customer engagement with ground-breaking entertainment ideas and novel dining concepts, SMAAASH has something for everyone anyone of any age making it a perfect destination for \"kids\" of all ages.",
+        "floor": "third",
+        "category": "",
+        "id": "smaaash"
+      },
+      {
+        "title": "Soch",
+        "description": "A powerhouse of exquisiteness, Soch represents heritage like no other. From designer apparel to elegant fashionwear, Soch is a one-stop retail brand for all your ethnic needs.",
+        "floor": "second",
+        "category": "",
+        "id": "soch"
+      },
+      {
+        "title": "Spar",
+        "description": "SPAR is an organisation that provides its customers value for money. SPAR is passionate about retailing and is driven by committed independent retailers who win the trust and friendship of their community. Through its commitment to outstanding service and excellence in fresh foods, SPAR meets the real needs of its customers.",
+        "floor": "lowerGround",
+        "category": "",
+        "id": "spar"
+      },
+      {
+        "title": "Splash",
+        "description": "Showcasing popular collections for men, women and teens, Splash’s existing product portfolio includes a uni-brand concept across its stores providing a comfortable and easy shopping environment. Alongside, the brand also houses a gamut of international brands under its portfolio like Lee Cooper, Bossini, ELLE and Being Human among others. The brand celebrates fashion in its true sense with its tagline ‘In Love with Fashion’.",
+        "floor": "first",
+        "category": "",
+        "id": "splash"
+      },
+      {
+        "title": "The Body Shop",
+        "description": "Today its Enrich Not Exploit™ Commitment is stronger than ever. The Body Shop is dedicated to enriching people as well as the planet, working fairly with farmers and suppliers and helping communities thrive through its Community Trade program. The Body Shop has never tested any of its ingredients or products on animals and never will.",
+        "floor": "upperGround",
+        "category": "",
+        "id": "thebodyshop"
+      },
+      {
+        "title": "Tommy Hilfiger",
+        "description": "Thomas Jacob \"Tommy\" Hilfiger is an American fashion designer best known for founding the lifestyle brand Tommy Hilfiger Corporation in 1985. After starting his career by co-founding a chain of clothing and record stores in upstate New York in the 1970s, he began designing preppy sportswear for his own eponymous menswear line in the 1980s.",
+        "floor": "upperGround",
+        "category": "",
+        "id": "tommyhilfiger"
+      },
+      {
+        "title": "Trends Footwear",
+        "description": "Trends Footwear is a leading specialty family footwear retailer that caters to the footwear needs of the entire family. Trends Footwear offers widest range of international, domestic and Reliance owned brands across men’s footwear, women’s footwear, kids footwear, handbags, backpacks, luggage, socks, belts, wallets and shoe care. At Trends Footwear, we believe in the quality of our products and service which is the sole reason for our success. Be it indoor, outdoor, formals, casuals, sports, parties, ethnic or occasional, we offer the best in-trend fashion footwear and accessories for all age groups.",
+        "floor": "first",
+        "category": "",
+        "id": "trendsfootwear"
+      },
+      {
+        "title": "United Colors Of Benetton",
+        "description": "Benetton Group is focused on the future. Its story is built on innovation and seeing where others fail to see. The Group has always been at the cutting edge with color, with its revolutionary approach to point of sale, with an absolutely unique production and commercial network and with a universal form of communication, which created both a phenomenon and cultural debate.",
+        "floor": "upperGround",
+        "category": "",
+        "id": "ucb"
+      },
+      {
+        "title": "Van Heusen",
+        "description": "Van Heusen is a premium lifestyle brand for men. The brand embodies fashion for the corporate and reflects the current expression of elegance in today’s context. Van Heusen believes that the design drivers for the brand are fashion and sophistication.",
+        "floor": "upperGround",
+        "category": "",
+        "id": "vanheusen"
+      },
+      {
+        "title": "Vega",
+        "description": "Flagship brand of Vega Industries Pvt. Ltd. Formerly known as Tri-Star Products Pvt. Ltd., part of Indeutsch Group, the leading hobby & craft exporter of India. Entered Indian market in the year 2000 Instrumental in creating a market for various beauty tools in India with niche products. Largest company in India operating in the Beauty Accessories segment and the only company providing the complete range of beauty accessories from ‘Head to Toe’.",
+        "floor": "upperGround",
+        "category": "",
+        "id": "vega"
+      },
+      {
+        "title": "Vip",
+        "description": "Vibrant colours and the finest fabrics make travelling an absolute joy. The exquisite designs and easy-to-use functionality make every Safari bag an ideal travel companion. Soft, Squashy, Stylish Safari Luggage, Travel Luggage, and Adventure Luggage for safaris, travels, expedition.",
+        "floor": "first",
+        "category": "",
+        "id": "vip"
+      },
+      {
+        "title": "W",
+        "description": "Being #unlikeboring is not a choice. It is who we are. It is the way we were born as a brand. Cliches bore us; conventions stifle us. We are not rebels, we merely think different. At W, we endeavour to challenge the unsaid norms of fashion. And we have been doing this ever since we began.This is art. This is fashion. This is ‘W.",
+        "floor": "second",
+        "category": "",
+        "id": "w"
+      },
+      {
+        "title": "Walkway",
+        "description": "The store contains footwear for men, women and Kids. Prices ranging from low to high depending on the quality and brand of the foot wear. The brands like Liberty, woodland, valentino, converse, lancer, lotto, Redtape, Hitz, puma, paragon, Relaxo, Action, VKC, Timberland, Coolers etc",
+        "floor": "lowerGround",
+        "category": "",
+        "id": "walkway"
+      },
+      {
+        "title": "Westside",
+        "description": "With a variety of designs and styles, everything at Westside is exclusively designed and the merchandise ranges from stylized clothes, footwear and accessories for men, women and children to well-co-coordinated table linens, artifacts, home accessories and furnishings. Well-designed interiors, sprawling space, prime locations and coffee shops enhance the customers’ shopping experience.",
+        "floor": "upperGround",
+        "category": "",
+        "id": "westside"
+      },
+      {
+        "title": "Westside",
+        "description": "With a variety of designs and styles, everything at Westside is exclusively designed and the merchandise ranges from stylized clothes, footwear and accessories for men, women and children to well-co-coordinated table linens, artifacts, home accessories and furnishings. Well-designed interiors, sprawling space, prime locations and coffee shops enhance the customers’ shopping experience.",
+        "floor": "upperGround",
+        "category": "",
+        "id": "westside_first"
+      },
+      {
+        "title": "Woodland",
+        "description": "Woodland offers an extensive line of footwear, performance apparel and outdoor gear. Cold weather is part of our national identity, and there are no better judges of the quality of our products than those for whom they are designed—and by whom they were inspired.",
+        "floor": "first",
+        "category": "",
+        "id": "woodland"
+      },
+      {
+        "title": "Yollow",
+        "description": "You can consume the \"whole package\" when it comes to dessert.",
+        "floor": "lowerGround",
+        "category": "",
+        "id": "yollow"
+      }
+    ],
+    "floors": [
+      {
+        "name": "LG",
+        "id": "lowerGround",
+        "alias": "Lower Ground",
+        "ATM": false,
+        "babyCare": true,
+        "wheelchair": false
+      },
+      {
+        "name": "UG",
+        "id": "upperGround",
+        "alias": "Upper Ground",
+        "ATM": false,
+        "babyCare": false,
+        "wheelchair": false
+      },
+      {
+        "name": "I",
+        "id": "first",
+        "alias": "First",
+        "ATM": false,
+        "babyCare": false,
+        "wheelchair": false
+      },
+      {
+        "name": "II",
+        "id": "second",
+        "alias": "Second",
+        "ATM": false,
+        "babyCare": false,
+        "wheelchair": false
+      },
+      {
+        "name": "III",
+        "id": "third",
+        "alias": "Third",
+        "ATM": false,
+        "babyCare": false,
+        "wheelchair": false
+      }
+    ],
+    "mainCards": [
+      {
+        "name": "Search By Floor",
+        "screenName": "SearchByFloor"
+      },
+      {
+        "name": "Search By Name",
+        "screenName": "SearchByName"
+      },
+      {
+        "name": "Offers",
+        "screenName": "Offers"
+      },
+      {
+        "name": "Events",
+        "screenName": "Events"
+      }
+    ],
+    "amenitiesIconPositions": [
+      {
+        "babyCare": {
+          "lowerGround": [
+            {
+              "left": 1250,
+              "top": 432
+            }
+          ]
+        },
+        "washroom": {
+          "lowerGround": [
+            {
+              "left": 1320,
+              "top": 395
+            }
+          ],
+          "upperGround": [
+            {
+              "left": 1250,
+              "top": 300
+            }
+          ],
+          "first": [
+            {
+              "left": 1250,
+              "top": 300
+            }
+          ],
+          "second": [
+            {
+              "left": 1250,
+              "top": 300
+            }
+          ],
+          "third": [
+            {
+              "left": 1250,
+              "top": 300
+            }
+          ]
+        },
+        "fireExit": {
+          "lowerGround": [
+            {
+              "left": 410,
+              "top": 523
+            },
+            {
+              "left": 580,
+              "top": 517
+            },
+            {
+              "left": 574,
+              "top": 623
+            },
+            {
+              "left": 1200,
+              "top": 677
+            }
+          ],
+          "upperGround": [
+            {
+              "left": 1185,
+              "top": 610
+            },
+            {
+              "left": 420,
+              "top": 548
+            },
+            {
+              "left": 600,
+              "top": 610
+            },
+            {
+              "left": 620,
+              "top": 360
+            },
+            {
+              "left": 1110,
+              "top": 240
+            },
+            {
+              "left": 1355,
+              "top": 435
+            }
+          ],
+          "first": [
+            {
+              "left": 1193,
+              "top": 618
+            },
+            {
+              "left": 428,
+              "top": 540
+            },
+            {
+              "left": 600,
+              "top": 610
+            },
+            {
+              "left": 665,
+              "top": 360
+            },
+            {
+              "left": 1120,
+              "top": 233
+            },
+            {
+              "left": 1340,
+              "top": 435
+            },
+            {
+              "left": 954,
+              "top": 720
+            }
+          ],
+          "second": [
+            {
+              "left": 1167,
+              "top": 610
+            },
+            {
+              "left": 430,
+              "top": 548
+            },
+            {
+              "left": 598,
+              "top": 605
+            },
+            {
+              "left": 645,
+              "top": 355
+            },
+            {
+              "left": 1110,
+              "top": 235
+            },
+            {
+              "left": 1318,
+              "top": 435
+            },
+            {
+              "left": 947,
+              "top": 728
+            }
+          ],
+          "third": [
+            {
+              "left": 1157,
+              "top": 610
+            },
+            {
+              "left": 435,
+              "top": 554
+            },
+            {
+              "left": 600,
+              "top": 610
+            },
+            {
+              "left": 630,
+              "top": 350
+            },
+            {
+              "left": 1110,
+              "top": 240
+            },
+            {
+              "left": 968,
+              "top": 728
+            },
+            {
+              "left": 1323,
+              "top": 428
+            }
+          ]
+        },
+        "elevator": {
+          "lowerGround": [
+            {
+              "left": 940,
+              "top": 700
+            }
+          ],
+          "upperGround": [
+            {
+              "left": 940,
+              "top": 700
+            }
+          ],
+          "first": [
+            {
+              "left": 940,
+              "top": 693
+            }
+          ],
+          "second": [
+            {
+              "left": 940,
+              "top": 700
+            }
+          ],
+          "third": [
+            {
+              "left": 935,
+              "top": 695
+            }
+          ]
+        },
+        "wheelchair": {},
+        "atm": {}
+      }
+    ],
+    "events": [
+      {
+        "id": "1",
+        "name": "Forum Education Expo - 2019",
+        "description": "Forum Fiza mall hosted a free Education Expo on January 5th & 6th 2019 in its premises where students interacted with participating schools ,universities & tutorials from across Mangaluru . Forum Education Expo was an excellent opportunity for students and parents to obtain information from a variety of institutions in a short period of time. Specially for Parents seeking to enhance their children’s skills.",
+        "startDate": "05-01-2019",
+        "endDate": "06-01-2019"
+      },
+      {
+        "id": "3",
+        "name": "Pet Adoption Camp",
+        "description": "The Animal care trust had organised the Desi Puppy & Kitten adoption camp in association with Forum Fiza mall, where shoppers could adopt pets and take them home.",
+        "startDate": "27-01-2019",
+        "endDate": "27-01-2019"
+      },
+      {
+        "id": "2",
+        "name": "Republic Day Celebration ",
+        "description": "The celebration began with the traditional flag hoisting after which the security and housekeeping personnel were felicitated for their services. The Mangalore motor sports association also organised an exclusive display of vintage cars and bikes in the open plaza.",
+        "startDate": "26-01-2019",
+        "endDate": "26-01-2019"
+      },
+      {
+        "id": "4",
+        "name": "Chicken Eating Challenge ",
+        "description": "Forum Fiza Mall had organised the Mangalore’s biggest Chicken Eating Challenge in association with Chicking and the 3 Hungry men team. Challenge lived up to the hype by accommodating more than 200 participants who gorged their way to be first Chicken Eating champion at Via South food court of Forum Fiza Mall. The winner Mr. Muhasin Milan walked away with Rs.20,000 worth prizes, First Runner Up Mr. Nifa Ahmed won Rs.15,000 worth prizes & Second Runner Up Mr. Ajith won Rs.10,000 worth prizes.",
+        "startDate": "02-02-2019",
+        "endDate": "03-02-2019"
+      },
+      {
+        "id": "5",
+        "name": "Forum Kitchen Queen ",
+        "description": "To celebrate women’s day Forum Fiza Mall had organized a cooking competition in association with Ocean Pearl Hotel & Atomm Fitness Club, event was organized to honour the women who inspire us & to show ingenuity of woman who built warm family atmosphere. The competition involved participants cooking dish of their choice within 30 minutes during the preliminary round & in finale participants had to prepare dish of their choice from the ingredients provided in the mystery box. The winners were selected on the basis of taste, presentation, creativity & originality. ",
+        "startDate": "09-03-2019",
+        "endDate": "10-03-2019"
+      },
+      {
+        "id": "6",
+        "name": "Chocolate Street ",
+        "description": "Nitte Institute Of Communication had organised the Nico’s Chocolate Street in association with Forum Fiza Mall. There were different varieties of delicious chocolate & cake stalls where shoppers enjoyed the sweet treats. Music, workshops and games were a part of the event, which made it a huge, happy success. ",
+        "startDate": "30-03-2019",
+        "endDate": "31-03-2019"
+      },
+      {
+        "id": "7",
+        "name": "Forum Food Street",
+        "description": "Catch a glimpse of iconic Forum Food Street which set a benchmark for all the foodies in Mangaluru. This year was the most fruitful as the counters were swarming with foodies satiating their festive treats, from haryali kebabs to shawarma rolls it had all the ingredients for a food lovers paradise. ",
+        "startDate": "05-05-2019",
+        "endDate": "04-06-2019"
+      },
+      {
+        "id": "8",
+        "name": "Eid Celebration",
+        "description": "Forum Fiza mall, Mangaluru’s favourite shopping destination celebrated Eid Al Fitr with a host of diverse and exciting activities and entertainment from 5th May to 9 th June ‘2019 .Shoppers enjoyed the malls ambience on its breath-taking Eid décor installation at the central atrium & customers who spent Rs 3,000 or more stood a chance to win Rs.10, 00,000 worth shopping, exotic international holiday to the UAE for 3 nights & 4 days, daily prizes worth Rs.5,000, Free GV’s were handed for customers who donated at Forum Donation box.",
+        "startDate": "05-05-2019",
+        "endDate": "09-06-2019"
+      },
+      {
+        "id": "9",
+        "name": "Max Little Icon - 2019",
+        "description": "Max Fashion had organised the Max Little Icon event at our mall, which included singing, drawing and dance competition where little kids showcased their talents to become a Superhero. The entertaining event culminated with a distribution of prizes, trophy and certificates to the lovely little participants.",
+        "startDate": "18-05-2019",
+        "endDate": "19-05-2019"
+      },
+      {
+        "id": "10",
+        "name": "Forum Fiza Mall 5th Anniversary Celebration",
+        "description": "As Forum Fiza mall marked it’s 5 year anniversary on 28th May 2019, our delightful team celebrated the day with a cake cutting ceremony and sharing stories of their great experiences through the years. On behalf of everyone at Forum Fiza, we thank you for your continued support in our journey! ",
+        "startDate": "28-05-2019",
+        "endDate": "28-05-2019"
+      },
+      {
+        "id": "11",
+        "name": "International Yoga Day",
+        "description": "The International Yoga Day celebration was held on 21st June, which is the date of the summer solstice or longest day of the year. The event was organised by The Art of Living Mangalore, in association with Forum Fiza mall. The event included a yoga session for all the shoppers and mall visitors and saw them perform different asanas together.",
+        "startDate": "21-06-2019",
+        "endDate": "21-06-2019"
+      },
+      {
+        "id": "12",
+        "name": "India Auto Show – Edition 6",
+        "description": "India Auto Show Edition-6 was held at our mall which witnessed major automobile brands like Mercedes Benz, Tata Motors, Hyundai, KTM, TVS and Kross Bikes, who all showcased their latest launches and trending cars and bikes. Loyal auto fans visited this exhibition to learn more about their favourite brands. ",
+        "startDate": "21-06-2019",
+        "endDate": "23-06-2019"
+      },
+      {
+        "id": "13",
+        "name": "Forum Junior Chef Champ-2019",
+        "description": "The enthusiastic and talented participants prepared a range of delicious dishes each round, and wowed the judges and crowd with their skills taken at the 2019 Junior Chef cooking competition at Forum Fiza. Kids from 2 age categories of 7-10 years and 11-15 years participated in Mangalore’s biggest culinary challenge. The enthusiastic and talented participants prepared a range of delicious dishes each round, and wowed the judges and crowd with their skills!",
+        "startDate": "22-06-2019",
+        "endDate": "23-06-2019"
+      },
+      {
+        "id": "14",
+        "name": "Mangalore’s Got Talent",
+        "description": "Forum Fiza in association with Dream catchers organised talent hunt for Mangalore on 30th June 2019 where more than 50 people showcased their talent across categories such as signing, painting, beat boxing, acting, comedy, music and dance. ",
+        "startDate": "30-06-2019",
+        "endDate": "30-06-2019"
+      },
+      {
+        "id": "15",
+        "name": "Forum Super Dad-2019",
+        "description": "The Grand Finale of the Super Dad Contest was held at Forum Fiza .The participants and their Fathers took part in a ramp walk and shared a few words on what makes their dad special to a panel of judges. With the fun atmosphere and prizes worth Rs. 30,000 being presented, it was a memorable day for parents and kids alike. #ForumSuperDad.",
+        "startDate": "14-07-2019",
+        "endDate": "14-07-2019"
+      },
+      {
+        "id": "16",
+        "name": "Forum Spell Bee Champ-2019",
+        "description": "Forum Spell Bee Champ was held on 27th & 28th July had over 340 kids participating across junior & senior categories. 24 participants were selected for the finale from each category. Winners were presented with trophies, gift vouchers and certificates. Kudos to the brilliant turnout and talented young spell masters who made this event a grand success! ",
+        "startDate": "27-07-2019",
+        "endDate": "28-07-2019"
+      },
+      {
+        "id": "17",
+        "name": "Purple Run Fitness Challenge",
+        "description": "On Independence Day, we hosted enthusiastic participants to get ready for the Forum Purple Run-2019. There were many activities like Hercules Throw, Push Ups and even a special Zumba session by Groundsport Fitness.",
+        "startDate": "15-08-2019",
+        "endDate": "15-08-2019"
+      },
+      {
+        "id": "18",
+        "name": "Independence Day Celebration",
+        "description": "This Independence Day Forum Fiza Mall celebrated 73 years of freedom by hoisting the Tricolour flag and conducting a parade to celebrate and honour our patriots and freedom fighters.",
+        "startDate": "15-08-2019",
+        "endDate": "15-08-2019"
+      },
+      {
+        "id": "19",
+        "name": "Forum Junior Chess Championship",
+        "description": "Forum Fiza Mall in association with Derik’s Chess School organised the Forum Chess Wiz Championship Season-III held on August 31st & 1st September, and September 7th & 8th. The competition was an opportunity for students to exercise their brains and compete in both Open & Girls categories. More than 700 kids across the junior and senior category were participated in this championship for the title. ",
+        "startDate": "31-08-2019",
+        "endDate": "01-09-2019"
+      },
+      {
+        "id": "20",
+        "name": "Forum Purple Run ",
+        "description": "The Forum Purple Run 2019 was truly a day to remember. Almost 2,000 Mangaloreans were united in the run to fight Alzheimer’s. With 3km, 5km and 10 km categories, people of all ages showed their enthusiasm and participated in the Fun Run.",
+        "startDate": "15-09-2019",
+        "endDate": "15-09-2019"
+      },
+  
+      {
+        "id": "21",
+        "name": "Forum Junior Chess Championship",
+        "description": "Forum Fiza Mall in association with Derik’s Chess School organised the Forum Chess Wiz Championship Season-III held on August 31st & 1st September, and September 7th & 8th. The competition was an opportunity for students to exercise their brains and compete in both Open & Girls categories. More than 700 kids across the junior and senior category were participated in this championship for the title. ",
+        "startDate": "07-09-2019",
+        "endDate": "08-09-2019"
+      }
+    ],
+    "offers": [
+      {
+        "id": "1",
+        "name": "Upto 70% Off on Selected items",
+        "description": "",
+        "validity": "22-11-2019",
+        "shopId": "crocs"
+      },
+      {
+        "id": "2",
+        "name": "Upto 60% Off on Selected items",
+        "description": "",
+        "validity": "22-11-2019",
+        "shopId": "athome"
+      },
+      {
+        "id": "3",
+        "name": "Upto 50% Off on Selected items",
+        "description": "",
+        "validity": "22-11-2019",
+        "shopId": "archies"
+      },
+      {
+        "id": "4",
+        "name": "Upto 50% Off on Selected items",
+        "description": "",
+        "validity": "22-11-2019",
+        "shopId": "paradise"
+      },
+      {
+        "id": "5",
+        "name": "Upto 50% Off on Selected items",
+        "description": "",
+        "validity": "22-11-2019",
+        "shopId": "samsonite"
+      },
+      {
+        "id": "1",
+        "name": "Upto 50% Off on Selected items",
+        "description": "",
+        "validity": "22-11-2019",
+        "shopId": "dreamgirl"
+      },
+      {
+        "id": "1",
+        "name": "Upto 50% Off on Selected items",
+        "description": "",
+        "validity": "22-11-2019",
+        "shopId": "thebodyshop"
+      },
+      {
+        "id": "1",
+        "name": "Upto 50% Off on Selected items",
+        "description": "",
+        "validity": "22-11-2019",
+        "shopId": "reliancedigital"
+      },
+      {
+        "id": "1",
+        "name": "Upto 50% Off on Selected items",
+        "description": "",
+        "validity": "22-11-2019",
+        "shopId": "vip"
+      },
+      {
+        "id": "1",
+        "name": "Upto 50% Off on Selected items",
+        "description": "",
+        "validity": "22-11-2019",
+        "shopId": "colorbar"
+      },
+      {
+        "id": "1",
+        "name": "Upto 40% Off on Selected items",
+        "description": "",
+        "validity": "22-11-2019",
+        "shopId": "sketchers"
+      },
+      {
+        "id": "1",
+        "name": "Upto 20% Off on Selected items",
+        "description": "",
+        "validity": "22-11-2019",
+        "shopId": "ajwad"
+      },
+      {
+        "id": "1",
+        "name": "Upto 30% Off on Selected items",
+        "description": "",
+        "validity": "22-11-2019",
+        "shopId": "revlon"
+      },
+      {
+        "id": "1",
+        "name": "Upto 30% Off on Selected items",
+        "description": "",
+        "validity": "22-11-2019",
+        "shopId": "tommyhilfiger"
+      },
+      {
+        "id": "1",
+        "name": "Every day value Save upto 40% off",
+        "description": "",
+        "validity": "22-11-2019",
+        "shopId": "dominospizza"
+      },
+      {
+        "id": "1",
+        "name": "McSaver combo",
+        "description": "",
+        "validity": "22-11-2019",
+        "shopId": "mcdonalds"
+      },
+      {
+        "id": "1",
+        "name": "Every day value at Rs.99 & Rs.199",
+        "description": "",
+        "validity": "22-11-2019",
+        "shopId": "pizzahut"
+      },
+      {
+        "id": "1",
+        "name": "Get 16pcs chicken only for Rs.599",
+        "description": "Get 24pcs chicken only for Rs.699,9pcs chicken 499 on  Monday to Friday",
+        "validity": "22-11-2019",
+        "shopId": "chicking"
+      },
+      {
+        "id": "1",
+        "name": "Mega Exchange Offer",
+        "description": "",
+        "validity": "22-11-2019",
+        "shopId": "poorvika"
+      },
+      {
+        "id": "1",
+        "name": "Rs.145 for bowling till 5pm only on weekdays",
+        "description": "Rs.145 for bowling till 5pm only on weekdays, Recharge worth Rs.2000 and get games worth Rs.4000",
+        "validity": "22-11-2019",
+        "shopId": "smaaash"
+      },
+      {
+        "id": "1",
+        "name": "Shop for Rs.1000 & get 33% off on selected items",
+        "description": "",
+        "validity": "22-11-2019",
+        "shopId": "mstore"
+      },
+      {
+        "id": "1",
+        "name": "Shop for Rs.2499 & get a Duffle bag for Rs.249",
+        "description": "",
+        "validity": "22-11-2019",
+        "shopId": "baggit"
+      },
+      {
+        "id": "1",
+        "name": "Shop for Rs.9999 and get  Watch worth Rs.3000 free",
+        "description": "Shop for Rs.9999 and get  Watch worth Rs.3000 free, Shop for Rs.3499 get Rs.500 off, Shop for Rs.5999 get Rs.1000 off, Shop for Rs.8999 get Rs.1750 off",
+        "validity": "22-11-2019",
+        "shopId": "indianterrain"
+      },
+      {
+        "id": "1",
+        "name": "Upto 50% off on selected items",
+        "description": "Upto 50% off on selected items & Shop for Rs.1699 on Easy buy items and get Duffle bag worth Rs.699 at just Rs.99",
+        "validity": "22-11-2019",
+        "shopId": "spar"
+      },
+      {
+        "id": "1",
+        "name": "Upto 60% Off on Selected items",
+        "description": "",
+        "validity": "22-11-2019",
+        "shopId": "baggit"
+      },
+      {
+        "id": "1",
+        "name": "Get a Trolley bag for just Rs.299 on purshase of Rs.16999",
+        "description": "",
+        "validity": "22-11-2019",
+        "shopId": "louisphillippe"
+      },
+      {
+        "id": "1",
+        "name": "Get a Trolley bag for just Rs.99 on purchase of Rs.16999",
+        "description": "Get a Trolley bag for just Rs.99 on purchase of Rs.16999,  Shop for Rs.6999 & get a Duffle bag free",
+        "validity": "22-11-2019",
+        "shopId": "vanheusen"
+      },
+      {
+        "id": "1",
+        "name": "Upto 50% Off on Selected brands",
+        "description": "",
+        "validity": "22-11-2019",
+        "shopId": "central"
+      },
+      {
+        "id": "1",
+        "name": "Shop for Rs.5999 & get Rs.1000 worth free shopping",
+        "description": "",
+        "validity": "22-11-2019",
+        "shopId": "uspolo"
+      },
+      {
+        "id": "1",
+        "name": "ONE year damage protection for any smartphone",
+        "description": "",
+        "validity": "22-11-2019",
+        "shopId": "sangeetha"
+      },
+      {
+        "id": "1",
+        "name": "Shop for Rs.6000 & get Rs.1000 worth merchandise free",
+        "description": "Shop for Rs.6000 & get Rs.1000 worth merchandise free, Shop for Rs.8000 & get Rs.1500 worth merchandise free",
+        "validity": "22-11-2019",
+        "shopId": "nike"
+      },
+      {
+        "id": "1",
+        "name": "Shop for Rs.6000 & get free shopping worth Rs.1000",
+        "description": "Shop for Rs.6000 & get free shopping worth Rs.1000, Shop for Rs.8000 & get free shopping worth Rs.1500",
+        "validity": "22-11-2019",
+        "shopId": "puma"
+      },
+      {
+        "id": "1",
+        "name": "Shop for Rs.5000 & get Bluetooth speaker free",
+        "description": "Shop for Rs.5000 & get Bluetooth speaker free, Shop for Rs.10000 & get Bluetooth airpods free, Shop for Rs.20000 & get Soundbar free",
+        "validity": "22-11-2019",
+        "shopId": "raymond"
+      },
+      {
+        "id": "1",
+        "name": "Get a white shirt combo worth Rs.2599 free on purchase of Rs.12499",
+        "description": "Get a white shirt combo worth Rs.2599 free on purchase of Rs.12499, Get gift voucher worth Rs.1500 on purchase of Rs.7499",
+        "validity": "22-11-2019",
+        "shopId": "parkavenue"
+      },
+      {
+        "id": "1",
+        "name": "Upto 50% Off on Selected items",
+        "description": "Upto 50% Off on Selected items & Shop for Rs.1500 and get Voucher worth Rs.1000",
+        "validity": "22-11-2019",
+        "shopId": "payless"
+      },
+      {
+        "id": "1",
+        "name": "Buy 1 get 1 free on selected items",
+        "description": "",
+        "validity": "22-11-2019",
+        "shopId": "lenskart"
+      },
+      {
+        "id": "1",
+        "name": "Upto 50% Off on Selected items",
+        "description": "Upto 50% Off on Selected items & Buy 2 get 1 free on selected items ",
+        "validity": "22-11-2019",
+        "shopId": "newu"
+      },
+      {
+        "id": "1",
+        "name": "Buy 1 get 50% off on 2nd product",
+        "description": "",
+        "validity": "22-11-2019",
+        "shopId": "crossword"
+      },
+      {
+        "id": "1",
+        "name": "Buy 2 get 1 free on selected items ",
+        "description": "",
+        "validity": "22-11-2019",
+        "shopId": "max"
+      },
+      {
+        "id": "1",
+        "name": "Shop for Rs.5999 & get Rs.1000 off",
+        "description": "Shop for Rs.5999 & get Rs.1000 off, Shop for Rs.9999 & get Rs.2000 off",
+        "validity": "22-11-2019",
+        "shopId": "ucb"
+      },
+      {
+        "id": "1",
+        "name": "Get additional merchandise worth Rs.2000 free on purchase of Rs.7999",
+        "description": "Get additional merchandise worth Rs.2000 free on purchase of Rs.7999, Get additional merchandise worth Rs.1000 free on purchase of Rs.4999",
+        "validity": "22-11-2019",
+        "shopId": "celio"
+      },
+      {
+        "id": "1",
+        "name": "Shop for Rs.9999 & get Rs.2000 worth shopping free",
+        "description": "Shop for Rs.9999 & get Rs.2000 worth shopping free, Shop for Rs.5999 & get Rs.1000 worth shopping free",
+        "validity": "22-11-2019",
+        "shopId": "arrow"
+      },
+      {
+        "id": "1",
+        "name": "Shop for Rs.12999 & get Strolley suitcase worth Rs.5499 free at just Rs.99",
+        "description": "",
+        "validity": "22-11-2019",
+        "shopId": "peterengland"
+      },
+      {
+        "id": "1",
+        "name": "Buy 2 get 1 free & Upto 25% off on selected items",
+        "description": "",
+        "validity": "22-11-2019",
+        "shopId": "pantaloons"
+      },
+      {
+        "id": "1",
+        "name": "Shop for Rs.9999 & get Rs.3000 worth apparels free",
+        "description": "Shop for Rs.9999 & get Rs.3000 worth apparels free, Shop for Rs.6999 & get Rs.2000 worth apparels free, Shop for Rs.4999 & get Rs.1000 worth apparels free",
+        "validity": "22-11-2019",
+        "shopId": "levis"
+      }
+    ],
+    "mallInfo": {
+      "kioskPlacedOnFloor": "upperGround",
+      "informationDeskNumber": "0824 249 8498",
+      "informationDeskEmail": "infodesk.ffm@forummalls.in",
+      "helpDeskNumber": "+91 9945821444",
+      "cinamas": "pvr"
+    }
+  }
